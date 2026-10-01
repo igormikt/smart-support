@@ -1,0 +1,52 @@
+# Virtual environment
+
+.venv/
+venv/
+env/
+
+# Python cache
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Pytest / coverage
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables / secrets
+
+.env
+.env.*
+!.env.example
+
+# Local databases
+
+*.db
+*.sqlite
+*.sqlite3
+
+# VS Code
+
+.vscode/
+
+# Local / temporary project files
+
+smart-support-project.zip
+setup.ps1
+install_smart_support.ps1
+README0.md
+README1.md
+README2.md
+
+# OS files
+
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Logs
+
+*.log
