@@ -28,7 +28,7 @@ MVP-автоматизация процесса обработки обраще�
 
 <p align="center">
   <a href="https://github.com/igormikt/smart-support">
-    <img src="assets/images/sheets.jpg" width="1200" alt="SmartSupport"/>
+    <img src="assets/images/sheet.jpg" width="1200" alt="SmartSupport"/>
   </a>
 </p>
 
