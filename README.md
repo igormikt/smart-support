@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/igormikt/smart-support">
+    <img src="assets/images/cover.png" width="1200" alt="Smart Support"/>
+  </a>
+</p>
+
 # Smart Support
 
 MVP-автоматизация процесса обработки обращений клиентов с использованием LLM.
